@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bansariiieee
 - 👀 I’m interested in front end and backend development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning android app development
 
 - 📫 How to reach me - ig - @bansariiieee
  
